@@ -250,8 +250,8 @@ padding-top: 20px
     margin: 0rem 0rem 3rem;
 }
 
-#apresentacao h1 { 
-    font:500 40px Arial, Helvetica, sans-serif;
+.apres h1 { 
+    font:600 30px Arial, Helvetica, sans-serif;
     box-shadow: .6em 0 0 #05ffa300;
     margin: 0rem 0rem;
     /* width: 19ch; */
